@@ -3,7 +3,7 @@ package com.cestarcollege.data;
 public class Course {
 	// this is id
 	public long courseId;
-	//this is course name attribute
+	//this is course name field
 	public String courseName;
 	//testing constructor
 	public Course(long courseId, String courseName) {
