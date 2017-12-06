@@ -1,7 +1,7 @@
 package com.cestarcollege.data;
 
 public class Course {
-
+	// this is id
 	public long courseId;
 	public String courseName;
 	//testing constructor
