@@ -4,6 +4,7 @@ public class Course {
 
 	public long courseId;
 	public String courseName;
+	//testing constructor
 	public Course(long courseId, String courseName) {
 		super();
 		this.courseId = courseId;
